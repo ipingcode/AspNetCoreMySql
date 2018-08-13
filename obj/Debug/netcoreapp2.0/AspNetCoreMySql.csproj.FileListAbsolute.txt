@@ -1,0 +1,13 @@
+C:\AspNetCoreMySql\bin\Debug\netcoreapp2.0\app.db
+C:\AspNetCoreMySql\bin\Debug\netcoreapp2.0\AspNetCoreMySql.deps.json
+C:\AspNetCoreMySql\bin\Debug\netcoreapp2.0\AspNetCoreMySql.runtimeconfig.json
+C:\AspNetCoreMySql\bin\Debug\netcoreapp2.0\AspNetCoreMySql.runtimeconfig.dev.json
+C:\AspNetCoreMySql\bin\Debug\netcoreapp2.0\AspNetCoreMySql.dll
+C:\AspNetCoreMySql\bin\Debug\netcoreapp2.0\AspNetCoreMySql.pdb
+C:\AspNetCoreMySql\obj\Debug\netcoreapp2.0\AspNetCoreMySql.csproj.CoreCompileInputs.cache
+C:\AspNetCoreMySql\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\AspNetCoreMySql\obj\Debug\netcoreapp2.0\AspNetCoreMySql.AssemblyInfoInputs.cache
+C:\AspNetCoreMySql\obj\Debug\netcoreapp2.0\AspNetCoreMySql.AssemblyInfo.cs
+C:\AspNetCoreMySql\obj\Debug\netcoreapp2.0\AspNetCoreMySql.dll
+C:\AspNetCoreMySql\obj\Debug\netcoreapp2.0\AspNetCoreMySql.pdb
+C:\AspNetCoreMySql\obj\Debug\netcoreapp2.0\AspNetCoreMySql.csprojResolveAssemblyReference.cache
